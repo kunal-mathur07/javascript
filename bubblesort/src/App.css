@@ -8,3 +8,22 @@
   padding:10px;
   box-sizing: border-box;
 }
+
+.iterations{
+  margin-top:10px;
+  margin-left:10px;
+  display:inline-block;
+  text-align:center;
+  box-sizing: border-box;
+}
+
+
+.content{
+  text-align:center;
+}
+
+input[type="text"]{
+  margin-right: 5px;
+  outline: none;
+  border-radius: 5px;
+}
